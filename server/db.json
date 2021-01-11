@@ -1,0 +1,28 @@
+{
+  "residences": [
+    {
+      "postalCode": "052064",
+      "houseNumber": "14",
+      "latitude": "+44.40220000",
+      "longitude": "+26.06240000",
+      "residents": "10",
+      "id": 31
+    },
+    {
+      "postalCode": "052062",
+      "houseNumber": "17",
+      "latitude": "+44.410693",
+      "longitude": "+26.077687",
+      "residents": "2",
+      "id": 32
+    },
+    {
+      "postalCode": "052185",
+      "houseNumber": "74",
+      "latitude": "44.40220000",
+      "longitude": "27.06240000",
+      "residents": "5",
+      "id": 33
+    }
+  ]
+}
