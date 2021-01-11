@@ -62,5 +62,7 @@
 - style
 - pagination on list
 - make the create form more easier( adding a city select imput after postal code is written and after selecting one city with zipcode longitude and latitude are automatically prefilled and with a slider to control the values ) OR ( after filling the postal code a map appear under focused on the postal code areas and with one click prefill most of fields )
-- 
 
+### I could make it far more better but i worked less than 24 hours
+
+### PS: after "npm run setup:install" if you get errors don't panic it works, the dependecies get installed!
